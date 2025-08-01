@@ -1,4 +1,4 @@
-print("Hello, World!")
+print("Hello, Welcome to the game!")
 
 import random
 
